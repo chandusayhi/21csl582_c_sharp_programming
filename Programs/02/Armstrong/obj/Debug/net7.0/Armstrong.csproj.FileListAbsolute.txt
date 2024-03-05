@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/out/Armstrong
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/out/Armstrong.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/out/Armstrong.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/out/Armstrong.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/out/Armstrong.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/Armstrong.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/Armstrong.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/Armstrong.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/Armstrong.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/Armstrong.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/refint/Armstrong.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/Armstrong.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/Armstrong.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/02/Armstrong/obj/Debug/net7.0/ref/Armstrong.dll

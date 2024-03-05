@@ -1,0 +1,19 @@
+$ ./out/InterfaceDemo 
+Enter the initial width of the rectangle:
+4
+Enter the initial height of the rectangle:
+8
+
+Original Size:
+Rectangle - Width: 4, Height: 8
+
+Enter the new width for resizing:
+3
+Resized width to 3
+Enter the new height for resizing:
+6
+Resized height to 6
+
+Updated Size:
+Rectangle - Width: 3, Height: 6
+

@@ -1,0 +1,10 @@
+#Creating Project
+$ dotnet new console -n FloydsTriangle
+
+Now go to the newly created directory using cd command
+
+#Compiling
+$ dotnet build -o out FloydsTriangle.csproj 
+
+#Execution
+$ ./out/FloydsTriangle

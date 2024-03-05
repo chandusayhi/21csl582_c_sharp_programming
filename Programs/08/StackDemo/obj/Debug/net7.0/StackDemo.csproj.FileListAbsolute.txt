@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/out/StackDemo
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/out/StackDemo.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/out/StackDemo.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/out/StackDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/out/StackDemo.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/StackDemo.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/StackDemo.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/StackDemo.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/StackDemo.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/StackDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/refint/StackDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/StackDemo.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/StackDemo.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/08/StackDemo/obj/Debug/net7.0/ref/StackDemo.dll

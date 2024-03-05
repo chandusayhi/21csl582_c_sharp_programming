@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/out/SubString
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/out/SubString.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/out/SubString.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/out/SubString.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/out/SubString.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/SubString.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/SubString.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/SubString.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/SubString.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/SubString.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/SubString.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/refint/SubString.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/SubString.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/SubString.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/03/SubString/obj/Debug/net7.0/ref/SubString.dll

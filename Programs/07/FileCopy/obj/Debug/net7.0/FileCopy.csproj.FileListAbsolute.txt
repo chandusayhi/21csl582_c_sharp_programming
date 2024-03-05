@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/out/FileCopy
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/out/FileCopy.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/out/FileCopy.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/out/FileCopy.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/out/FileCopy.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/FileCopy.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/FileCopy.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/FileCopy.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/FileCopy.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/FileCopy.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/FileCopy.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/refint/FileCopy.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/FileCopy.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/FileCopy.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/07/FileCopy/obj/Debug/net7.0/ref/FileCopy.dll

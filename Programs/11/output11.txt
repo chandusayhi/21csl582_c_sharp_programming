@@ -1,0 +1,9 @@
+$ ./out/AbstractClassDemo 
+Enter the radius of the circle:
+5
+Enter the side lengths of the triangle (separated by spaces):
+3 4 5
+
+Circle - Area: 78.53981633974483, Perimeter: 31.41592653589793
+Triangle - Area: 6, Perimeter: 12
+

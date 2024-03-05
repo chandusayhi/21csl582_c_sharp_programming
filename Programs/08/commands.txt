@@ -1,0 +1,10 @@
+#Creating Project
+$ dotnet new console -n StackDemo
+
+Now go to the newly created directory using cd command
+
+#Compiling
+$ dotnet build -o out StackDemo.csproj 
+
+#Execution
+$ ./out/StackDemo

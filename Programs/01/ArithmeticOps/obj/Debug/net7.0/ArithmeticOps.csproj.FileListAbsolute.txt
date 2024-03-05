@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/out/ArithmeticOps
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/out/ArithmeticOps.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/out/ArithmeticOps.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/out/ArithmeticOps.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/out/ArithmeticOps.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/ArithmeticOps.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/ArithmeticOps.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/ArithmeticOps.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/ArithmeticOps.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/ArithmeticOps.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/ArithmeticOps.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/refint/ArithmeticOps.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/ArithmeticOps.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/ArithmeticOps.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/01/ArithmeticOps/obj/Debug/net7.0/ref/ArithmeticOps.dll

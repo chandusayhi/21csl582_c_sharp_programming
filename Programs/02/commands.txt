@@ -1,0 +1,10 @@
+#Creating Project
+$ dotnet new console -n Armstrong
+
+Now go to the newly created directory using cd command
+
+#Compiling
+$ dotnet build -o out Armstrong.csproj 
+
+#Execution
+$ ./out/Armstrong

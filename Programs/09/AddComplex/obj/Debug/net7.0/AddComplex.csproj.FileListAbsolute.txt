@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/out/AddComplex
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/out/AddComplex.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/out/AddComplex.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/out/AddComplex.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/out/AddComplex.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/AddComplex.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/AddComplex.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/AddComplex.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/AddComplex.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/AddComplex.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/AddComplex.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/refint/AddComplex.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/AddComplex.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/AddComplex.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/09/AddComplex/obj/Debug/net7.0/ref/AddComplex.dll

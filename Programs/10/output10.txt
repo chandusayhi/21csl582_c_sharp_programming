@@ -1,0 +1,11 @@
+$ ./out/PolymorphismDemo 
+Demonstrating polymorphism:
+Drawing a circle.
+Erasing a circle.
+
+Drawing a triangle.
+Erasing a triangle.
+
+Drawing a square.
+Erasing a square.
+

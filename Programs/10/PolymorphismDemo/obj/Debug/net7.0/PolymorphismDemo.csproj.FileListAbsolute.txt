@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/out/PolymorphismDemo
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/out/PolymorphismDemo.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/out/PolymorphismDemo.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/out/PolymorphismDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/out/PolymorphismDemo.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/PolymorphismDemo.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/PolymorphismDemo.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/PolymorphismDemo.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/PolymorphismDemo.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/PolymorphismDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/refint/PolymorphismDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/PolymorphismDemo.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/PolymorphismDemo.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/10/PolymorphismDemo/obj/Debug/net7.0/ref/PolymorphismDemo.dll

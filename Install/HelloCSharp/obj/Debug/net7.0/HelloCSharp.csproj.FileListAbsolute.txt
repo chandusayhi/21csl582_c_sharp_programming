@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/out/HelloCSharp
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/out/HelloCSharp.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/out/HelloCSharp.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/out/HelloCSharp.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/out/HelloCSharp.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/HelloCSharp.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/HelloCSharp.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/HelloCSharp.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/HelloCSharp.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/refint/HelloCSharp.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/HelloCSharp.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/HelloCSharp.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Install/HelloCSharp/obj/Debug/net7.0/ref/HelloCSharp.dll

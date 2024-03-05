@@ -1,0 +1,30 @@
+#Creating Project
+$ dotnet new console -n FileCopy
+
+Now go to the newly created directory using cd command
+
+#Compiling
+$ dotnet build -o out FileCopy.csproj 
+
+#Execution
+First make sure that the source file is existing. If it is in the current directory you can provide its file name, otherwise you have to provide the full path name
+For the destination you need to specify the directory name followed by the destination file name.
+
+#Source file in current directory
+$ ./out/FileCopy
+
+Enter the path of the source text file:
+source.txt
+Enter the path of the destination text file:
+dest/recv.txt
+File copy successful!
+
+#Source file not in current directory
+
+$ ./out/FileCopy
+Enter the path of the source text file:
+/home/putta/GitRepos/21csl582_c_sharp_programming/README.md
+Enter the path of the destination text file:
+dest/readme.txt
+File copy successful!
+

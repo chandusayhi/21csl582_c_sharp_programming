@@ -1,0 +1,37 @@
+$ ./out/AddComplex 
+Enter the first complex number:
+Real part: 6
+Imaginary part: 3
+
+Enter the second complex number:
+Real part: 2
+Imaginary part: 4
+
+First complex number:
+Result: 6 + 3i
+
+Second complex number:
+Result: 2 + 4i
+
+Result of addition:
+Result: 8 + 7i
+
+
+$ ./out/AddComplex 
+Enter the first complex number:
+Real part: 3
+Imaginary part: 4
+
+Enter the second complex number:
+Real part: 6
+Imaginary part: -7
+
+First complex number:
+Result: 3 + 4i
+
+Second complex number:
+Result: 6 + -7i
+
+Result of addition:
+Result: 9 + -3i
+

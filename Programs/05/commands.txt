@@ -1,0 +1,10 @@
+#Creating Project
+$ dotnet new console -n PascalTriangle2D
+
+Now go to the newly created directory using cd command
+
+#Compiling
+$ dotnet build -o out PascalTriangle2D.csproj 
+
+#Execution
+$ ./out/PascalTriangle2D

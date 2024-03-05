@@ -1,0 +1,28 @@
+$ ./out/ArithmeticOps
+Simple Arithmetic Calculator
+Enter the operator (+, -, *, /, %): +
+Enter the first operand: 4
+Enter the second operand: 5
+Result: 4 + 5 = 9
+
+$ ./out/ArithmeticOps
+Simple Arithmetic Calculator
+Enter the operator (+, -, *, /, %): /
+Enter the first operand: 7
+Enter the second operand: 6
+Result: 7 / 6 = 1.1666666666666667
+
+$ ./out/ArithmeticOps
+Simple Arithmetic Calculator
+Enter the operator (+, -, *, /, %): 7
+Enter the first operand: 7
+Enter the second operand: 9
+Error: Invalid operator.
+
+$ ./out/ArithmeticOps
+Simple Arithmetic Calculator
+Enter the operator (+, -, *, /, %): %
+Enter the first operand: 7
+Enter the second operand: 5
+Result: 7 % 5 = 2
+

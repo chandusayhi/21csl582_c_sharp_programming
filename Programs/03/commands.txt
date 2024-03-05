@@ -1,0 +1,10 @@
+#Creating Project
+$ dotnet new console -n SubString
+
+Now go to the newly created directory using cd command
+
+#Compiling
+$ dotnet build -o out SubString.csproj 
+
+#Execution
+$ ./out/SubString

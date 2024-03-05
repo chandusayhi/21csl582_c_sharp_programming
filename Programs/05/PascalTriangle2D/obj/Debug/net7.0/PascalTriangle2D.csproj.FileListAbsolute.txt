@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/out/PascalTriangle2D
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/out/PascalTriangle2D.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/out/PascalTriangle2D.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/out/PascalTriangle2D.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/out/PascalTriangle2D.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/PascalTriangle2D.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/PascalTriangle2D.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/PascalTriangle2D.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/PascalTriangle2D.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/PascalTriangle2D.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/PascalTriangle2D.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/refint/PascalTriangle2D.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/PascalTriangle2D.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/PascalTriangle2D.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/05/PascalTriangle2D/obj/Debug/net7.0/ref/PascalTriangle2D.dll

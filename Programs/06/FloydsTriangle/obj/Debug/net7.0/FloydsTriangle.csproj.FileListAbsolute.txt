@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/out/FloydsTriangle
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/out/FloydsTriangle.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/out/FloydsTriangle.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/out/FloydsTriangle.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/out/FloydsTriangle.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/FloydsTriangle.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/FloydsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/FloydsTriangle.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/FloydsTriangle.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/FloydsTriangle.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/FloydsTriangle.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/refint/FloydsTriangle.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/FloydsTriangle.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/FloydsTriangle.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/06/FloydsTriangle/obj/Debug/net7.0/ref/FloydsTriangle.dll

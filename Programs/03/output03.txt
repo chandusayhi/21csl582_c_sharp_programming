@@ -1,0 +1,31 @@
+$ ./out/SubString
+Enter a string:
+abc
+All substrings in the given string:
+a
+ab
+abc
+b
+bc
+c
+
+$ ./out/SubString
+Enter a string:
+india
+All substrings in the given string:
+i
+in
+ind
+indi
+india
+n
+nd
+ndi
+ndia
+d
+di
+dia
+i
+ia
+a
+

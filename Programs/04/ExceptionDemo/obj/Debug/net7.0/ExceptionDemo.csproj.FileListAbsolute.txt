@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/out/ExceptionDemo
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/out/ExceptionDemo.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/out/ExceptionDemo.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/out/ExceptionDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/out/ExceptionDemo.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/ExceptionDemo.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/ExceptionDemo.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/ExceptionDemo.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/ExceptionDemo.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/ExceptionDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/refint/ExceptionDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/ExceptionDemo.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/ExceptionDemo.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/04/ExceptionDemo/obj/Debug/net7.0/ref/ExceptionDemo.dll

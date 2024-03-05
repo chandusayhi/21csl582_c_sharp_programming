@@ -1,0 +1,149 @@
+$ ./out/StackDemo
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+2
+Stack underflow! Cannot pop from an empty stack.
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+3
+Stack is empty.
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+1
+Enter the value to push:
+12
+Pushed element: 12
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+1
+Enter the value to push:
+34
+Pushed element: 34
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+1
+Enter the value to push:
+56
+Pushed element: 56
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+3
+Stack elements:
+56
+34
+12
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+1
+Enter the value to push:
+78
+Pushed element: 78
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+3
+Stack elements:
+78
+56
+34
+12
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+2
+Popped element: 78
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+3
+Stack elements:
+56
+34
+12
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+2
+Popped element: 56
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+3
+Stack elements:
+34
+12
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+2
+Popped element: 34
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+3
+Stack elements:
+12
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+2
+Popped element: 12
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+3
+Stack is empty.
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+2
+Stack underflow! Cannot pop from an empty stack.
+Choose an option:
+1. Push
+2. Pop
+3. Display
+4. Exit
+4
+Exiting the program.
+

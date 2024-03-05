@@ -1,0 +1,15 @@
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/out/InterfaceDemo
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/out/InterfaceDemo.deps.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/out/InterfaceDemo.runtimeconfig.json
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/out/InterfaceDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/out/InterfaceDemo.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.csproj.AssemblyReference.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.AssemblyInfoInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.AssemblyInfo.cs
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.csproj.CoreCompileInputs.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/refint/InterfaceDemo.dll
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.pdb
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/InterfaceDemo.genruntimeconfig.cache
+/home/putta/GitRepos/21csl582_c_sharp_programming/Programs/12/InterfaceDemo/obj/Debug/net7.0/ref/InterfaceDemo.dll

@@ -1,0 +1,5 @@
+$ ./out/ExceptionDemo
+Result of division of 10/3: 3
+Division by zero exception caught: Attempted to divide by zero.
+Value at index 3: 4
+Specified Index is out of range hence out of range exception caught: Index was outside the bounds of the array.
